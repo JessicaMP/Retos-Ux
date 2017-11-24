@@ -17,11 +17,11 @@
 * La forma, tamaño y colores de las imagenes que te salen en la búsqueda.
 * Las notificaciones que te aparece al lado izquiero de la pantalla.
 
-![Sin titulo](assets/images/pinterest.PNG)
+![Sin titulo](assets/images/ejercicio-1/pinterest.PNG)
 
-![Sin titulo](assets/images/pinterest-1.PNG)
+![Sin titulo](assets/images/ejercicio-1/pinterest-1.PNG)
 
-![Sin titulo](assets/images/pinterest-2.PNG)
+![Sin titulo](assets/images/ejercicio-1/pinterest-2.PNG)
 
 # **Youtube**
 
@@ -41,11 +41,11 @@
 * Los hovers de los videos
 * La navegacion infinita al igual q las redes sociales.
 
-![Sin titulo](assets/images/youtube.PNG)
+![Sin titulo](assets/images/ejercicio-1/youtube.PNG)
 
-![Sin titulo](assets/images/youtub-1.PNG)
+![Sin titulo](assets/images/ejercicio-1/youtub-1.PNG)
 
-![Sin titulo](assets/images/youtube-2.PNG)
+![Sin titulo](assets/images/ejercicio-1/youtube-2.PNG)
 
 
 ***
